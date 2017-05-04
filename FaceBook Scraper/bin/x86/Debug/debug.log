@@ -1,0 +1,50 @@
+[0212/124450:ERROR:ipc_channel_win.cc(475)] pipe error: 109
+[0212/132214:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/132219:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/134106:FATAL:memory.cc(19)] Out of memory. size=4194304
+[0212/134645:ERROR:ipc_channel_win.cc(475)] pipe error: 109
+[0212/140734:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/140736:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/144730:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/144731:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/145746:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/145748:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/150309:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/150310:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/150521:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/150522:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/151534:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0212/151732:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/151733:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/152251:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/152252:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/152437:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/152438:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/152901:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/152903:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/153202:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/153203:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/153430:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/153431:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/153821:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/153822:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/154140:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0212/154333:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/154334:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/154837:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/154839:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/163714:ERROR:webgraphicscontext3d_command_buffer_impl.cc(269)] Failed to initialize GLES2Implementation.
+[0212/172806:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/172815:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/173120:ERROR:ipc_channel_win.cc(475)] pipe error: 109
+[0212/173333:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/173341:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0212/173702:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0212/173714:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0216/102258:ERROR:gles2_cmd_decoder.cc(13414)] [.CommandBufferContext.RenderWorker-09817280]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0216/104042:ERROR:gles2_cmd_decoder.cc(13414)] [.CommandBufferContext.RenderWorker-093C9308]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0216/104901:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0216/104904:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0216/104927:WARNING:render_frame_host_impl.cc(1696)] OnDidStartLoading was called twice.
+[0216/104931:WARNING:render_frame_host_impl.cc(1711)] OnDidStopLoading was called twice.
+[0216/105204:ERROR:ipc_channel_win.cc(475)] pipe error: 109

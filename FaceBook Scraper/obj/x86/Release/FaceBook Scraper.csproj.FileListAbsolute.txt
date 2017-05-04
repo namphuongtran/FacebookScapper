@@ -1,0 +1,18 @@
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\FaceBook Scraper.exe
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\FaceBook Scraper.pdb
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\CefSharp.Core.dll
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\CefSharp.dll
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\CefSharp.WinForms.dll
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\EPPlus.dll
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\Facebook.dll
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\CefSharp.WinForms.xml
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\CefSharp.xml
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\CefSharp.Core.xml
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\EPPlus.xml
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\bin\x86\Release\Facebook.xml
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\obj\x86\Release\FaceBook_Scraper.Form1.resources
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\obj\x86\Release\FaceBook_Scraper.Properties.Resources.resources
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\obj\x86\Release\FaceBook Scraper.csproj.GenerateResource.Cache
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\obj\x86\Release\FaceBook Scraper.exe
+C:\Users\Benyass\Documents\Visual Studio 2015\Projects\FaceBook Scraper\FaceBook Scraper\obj\x86\Release\FaceBook Scraper.pdb

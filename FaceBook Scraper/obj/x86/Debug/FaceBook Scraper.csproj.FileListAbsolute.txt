@@ -1,0 +1,42 @@
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\FaceBook Scraper.exe.config
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\FaceBook Scraper.exe
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\FaceBook Scraper.pdb
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.dll
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\EPPlus.dll
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\Facebook.dll
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\InputSimulator.dll
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.xml
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\EPPlus.xml
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\Facebook.xml
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.csprojResolveAssemblyReference.cache
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook_Scraper.Main.resources
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook_Scraper.Properties.Resources.resources
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.csproj.GenerateResource.Cache
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.exe
+C:\Users\trphu\OneDrive\MyProjects\Freelancer\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.pdb
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\FaceBook Scraper.exe.config
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\FaceBook Scraper.exe
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\FaceBook Scraper.pdb
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.Core.dll
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.dll
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\EPPlus.dll
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\Facebook.dll
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\InputSimulator.dll
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.xml
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\CefSharp.Core.xml
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\EPPlus.xml
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\bin\x86\Debug\Facebook.xml
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.csprojResolveAssemblyReference.cache
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook_Scraper.Main.resources
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook_Scraper.Properties.Resources.resources
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.csproj.GenerateResource.Cache
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.exe
+C:\Data\Freelancer\Southern\FaceBook-Scraper\FaceBook Scraper\obj\x86\Debug\FaceBook Scraper.pdb

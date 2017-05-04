@@ -1,0 +1,2066 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CefSharp.WinForms.49.0.1.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser">
+            <summary>Shim type of CefSharp.WinForms.ChromiumWebBrowser</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.#ctor(CefSharp.WinForms.ChromiumWebBrowser)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AddressChangedAddEventHandlerOfAddressChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_AddressChanged(EventHandler`1&lt;AddressChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AddressChangedRemoveEventHandlerOfAddressChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_AddressChanged(EventHandler`1&lt;AddressChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AddressGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_Address()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AddressSetString">
+            <summary>Sets the shim of ChromiumWebBrowser.set_Address(String value)</summary>
+        </member>
+        <member name="T:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.AddressChangedAddEventHandlerOfAddressChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_AddressChanged(EventHandler`1&lt;AddressChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.AddressChangedRemoveEventHandlerOfAddressChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_AddressChanged(EventHandler`1&lt;AddressChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.AddressGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_Address()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.AddressSetString">
+            <summary>Sets the shim of ChromiumWebBrowser.set_Address(String value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.BrowserAdapterCefSharpInternalsIWebBrowserInternalget">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.get_BrowserAdapter()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.BrowserSettingsGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_BrowserSettings()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.BrowserSettingsSetBrowserSettings">
+            <summary>Sets the shim of ChromiumWebBrowser.set_BrowserSettings(BrowserSettings value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CanGoBackGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_CanGoBack()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CanGoBackSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_CanGoBack(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CanGoForwardGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_CanGoForward()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CanGoForwardSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_CanGoForward(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpIWebBrowserFocus">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.IWebBrowser.Focus()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalOnAfterBrowserCreatedIBrowser">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnAfterBrowserCreated(IBrowser browser)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalOnConsoleMessageConsoleMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnConsoleMessage(ConsoleMessageEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalOnFrameLoadEndFrameLoadEndEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnFrameLoadEnd(FrameLoadEndEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalOnFrameLoadStartFrameLoadStartEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnFrameLoadStart(FrameLoadStartEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalOnLoadErrorLoadErrorEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnLoadError(LoadErrorEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalOnStatusMessageStatusMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnStatusMessage(StatusMessageEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalSetAddressAddressChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetAddress(AddressChangedEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalSetLoadingStateChangeLoadingStateChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetLoadingStateChange(LoadingStateChangedEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalSetTitleTitleChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetTitle(TitleChangedEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.CefSharpInternalsIWebBrowserInternalSetTooltipTextString">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetTooltipText(String tooltipText)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.ConsoleMessageAddEventHandlerOfConsoleMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_ConsoleMessage(EventHandler`1&lt;ConsoleMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.ConsoleMessageRemoveEventHandlerOfConsoleMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_ConsoleMessage(EventHandler`1&lt;ConsoleMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.ControlHandleCefSharpInternalsIWebBrowserInternalget">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.get_ControlHandle()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DialogHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DialogHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DialogHandlerSetIDialogHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DialogHandler(IDialogHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DisplayHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DisplayHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DisplayHandlerSetIDisplayHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DisplayHandler(IDisplayHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DisposeBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DownloadHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DownloadHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DownloadHandlerSetIDownloadHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DownloadHandler(IDownloadHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DragHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DragHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.DragHandlerSetIDragHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DragHandler(IDragHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FindHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_FindHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FindHandlerSetIFindHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_FindHandler(IFindHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FocusHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_FocusHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FocusHandlerSetIFocusHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_FocusHandler(IFocusHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FocusedGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_Focused()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FrameLoadEndAddEventHandlerOfFrameLoadEndEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_FrameLoadEnd(EventHandler`1&lt;FrameLoadEndEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FrameLoadEndRemoveEventHandlerOfFrameLoadEndEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_FrameLoadEnd(EventHandler`1&lt;FrameLoadEndEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FrameLoadStartAddEventHandlerOfFrameLoadStartEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_FrameLoadStart(EventHandler`1&lt;FrameLoadStartEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.FrameLoadStartRemoveEventHandlerOfFrameLoadStartEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_FrameLoadStart(EventHandler`1&lt;FrameLoadStartEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.GeolocationHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_GeolocationHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.GeolocationHandlerSetIGeolocationHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_GeolocationHandler(IGeolocationHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.GetBrowser">
+            <summary>Sets the shim of ChromiumWebBrowser.GetBrowser()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.HasParentCefSharpInternalsIWebBrowserInternalget">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.get_HasParent()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.HasParentCefSharpInternalsIWebBrowserInternalsetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.set_HasParent(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsActivatingGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_IsActivating()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsActivatingSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_IsActivating(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsBrowserInitializedChangedAddEventHandlerOfIsBrowserInitializedChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_IsBrowserInitializedChanged(EventHandler`1&lt;IsBrowserInitializedChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsBrowserInitializedChangedRemoveEventHandlerOfIsBrowserInitializedChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_IsBrowserInitializedChanged(EventHandler`1&lt;IsBrowserInitializedChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsBrowserInitializedGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_IsBrowserInitialized()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsBrowserInitializedSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_IsBrowserInitialized(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsLoadingGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_IsLoading()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.IsLoadingSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_IsLoading(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.JsDialogHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_JsDialogHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.JsDialogHandlerSetIJsDialogHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_JsDialogHandler(IJsDialogHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.KeyboardHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_KeyboardHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.KeyboardHandlerSetIKeyboardHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_KeyboardHandler(IKeyboardHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LifeSpanHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_LifeSpanHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LifeSpanHandlerSetILifeSpanHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_LifeSpanHandler(ILifeSpanHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LoadErrorAddEventHandlerOfLoadErrorEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_LoadError(EventHandler`1&lt;LoadErrorEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LoadErrorRemoveEventHandlerOfLoadErrorEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_LoadError(EventHandler`1&lt;LoadErrorEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LoadHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_LoadHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LoadHandlerSetILoadHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_LoadHandler(ILoadHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LoadString">
+            <summary>Sets the shim of ChromiumWebBrowser.Load(String url)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LoadingStateChangedAddEventHandlerOfLoadingStateChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_LoadingStateChanged(EventHandler`1&lt;LoadingStateChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.LoadingStateChangedRemoveEventHandlerOfLoadingStateChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_LoadingStateChanged(EventHandler`1&lt;LoadingStateChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.MenuHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_MenuHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.MenuHandlerSetIContextMenuHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_MenuHandler(IContextMenuHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.OnGotFocusEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.OnHandleCreatedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.OnSizeChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RegisterAsyncJsObjectStringObjectBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.RegisterAsyncJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RegisterJsObjectStringObjectBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.RegisterJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RenderProcessMessageHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_RenderProcessMessageHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RenderProcessMessageHandlerSetIRenderProcessMessageHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_RenderProcessMessageHandler(IRenderProcessMessageHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RequestContextGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_RequestContext()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RequestContextSetRequestContext">
+            <summary>Sets the shim of ChromiumWebBrowser.set_RequestContext(RequestContext value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RequestHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_RequestHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.RequestHandlerSetIRequestHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_RequestHandler(IRequestHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.ResizeBrowser">
+            <summary>Sets the shim of ChromiumWebBrowser.ResizeBrowser()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.ResourceHandlerFactoryGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_ResourceHandlerFactory()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.ResourceHandlerFactorySetIResourceHandlerFactory">
+            <summary>Sets the shim of ChromiumWebBrowser.set_ResourceHandlerFactory(IResourceHandlerFactory value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.StatusMessageAddEventHandlerOfStatusMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_StatusMessage(EventHandler`1&lt;StatusMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.StatusMessageRemoveEventHandlerOfStatusMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_StatusMessage(EventHandler`1&lt;StatusMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.TitleChangedAddEventHandlerOfTitleChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_TitleChanged(EventHandler`1&lt;TitleChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.TitleChangedRemoveEventHandlerOfTitleChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_TitleChanged(EventHandler`1&lt;TitleChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.TooltipTextGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_TooltipText()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances.TooltipTextSetString">
+            <summary>Sets the shim of ChromiumWebBrowser.set_TooltipText(String value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.AllInstances._CefSharpInternalsIWebBrowserInternalOnAfterBrowserCreatedb__0">
+            <summary>Sets the shim of ChromiumWebBrowser.&lt;CefSharp.Internals.IWebBrowserInternal.OnAfterBrowserCreated&gt;b__0()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(CefSharp.IWebBrowser)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(CefSharp.Internals.IWebBrowserInternal)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(CefSharp.WinForms.IWinFormsWebBrowser)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(System.ComponentModel.IComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(System.ComponentModel.ISynchronizeInvoke)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(System.Windows.Forms.IBindableComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(System.Windows.Forms.IDropTarget)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(System.Windows.Forms.IWin32Window)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.BrowserAdapterCefSharpInternalsIWebBrowserInternalget">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.get_BrowserAdapter()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.BrowserSettingsGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_BrowserSettings()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.BrowserSettingsSetBrowserSettings">
+            <summary>Sets the shim of ChromiumWebBrowser.set_BrowserSettings(BrowserSettings value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CanGoBackGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_CanGoBack()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CanGoBackSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_CanGoBack(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CanGoForwardGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_CanGoForward()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CanGoForwardSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_CanGoForward(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpIWebBrowserFocus">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.IWebBrowser.Focus()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalOnAfterBrowserCreatedIBrowser">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnAfterBrowserCreated(IBrowser browser)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalOnConsoleMessageConsoleMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnConsoleMessage(ConsoleMessageEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalOnFrameLoadEndFrameLoadEndEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnFrameLoadEnd(FrameLoadEndEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalOnFrameLoadStartFrameLoadStartEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnFrameLoadStart(FrameLoadStartEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalOnLoadErrorLoadErrorEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnLoadError(LoadErrorEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalOnStatusMessageStatusMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.OnStatusMessage(StatusMessageEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalSetAddressAddressChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetAddress(AddressChangedEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalSetLoadingStateChangeLoadingStateChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetLoadingStateChange(LoadingStateChangedEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalSetTitleTitleChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetTitle(TitleChangedEventArgs args)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.CefSharpInternalsIWebBrowserInternalSetTooltipTextString">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.SetTooltipText(String tooltipText)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.ConsoleMessageAddEventHandlerOfConsoleMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_ConsoleMessage(EventHandler`1&lt;ConsoleMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.ConsoleMessageRemoveEventHandlerOfConsoleMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_ConsoleMessage(EventHandler`1&lt;ConsoleMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.ConstructorString">
+            <summary>Sets the shim of ChromiumWebBrowser.ChromiumWebBrowser(String address)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.ControlHandleCefSharpInternalsIWebBrowserInternalget">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.get_ControlHandle()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DialogHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DialogHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DialogHandlerSetIDialogHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DialogHandler(IDialogHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DisplayHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DisplayHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DisplayHandlerSetIDisplayHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DisplayHandler(IDisplayHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DisposeBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DownloadHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DownloadHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DownloadHandlerSetIDownloadHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DownloadHandler(IDownloadHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DragHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_DragHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.DragHandlerSetIDragHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_DragHandler(IDragHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FindHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_FindHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FindHandlerSetIFindHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_FindHandler(IFindHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FocusHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_FocusHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FocusHandlerSetIFocusHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_FocusHandler(IFocusHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FocusedGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_Focused()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FrameLoadEndAddEventHandlerOfFrameLoadEndEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_FrameLoadEnd(EventHandler`1&lt;FrameLoadEndEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FrameLoadEndRemoveEventHandlerOfFrameLoadEndEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_FrameLoadEnd(EventHandler`1&lt;FrameLoadEndEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FrameLoadStartAddEventHandlerOfFrameLoadStartEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_FrameLoadStart(EventHandler`1&lt;FrameLoadStartEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.FrameLoadStartRemoveEventHandlerOfFrameLoadStartEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_FrameLoadStart(EventHandler`1&lt;FrameLoadStartEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.GeolocationHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_GeolocationHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.GeolocationHandlerSetIGeolocationHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_GeolocationHandler(IGeolocationHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.GetBrowser">
+            <summary>Sets the shim of ChromiumWebBrowser.GetBrowser()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.HasParentCefSharpInternalsIWebBrowserInternalget">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.get_HasParent()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.HasParentCefSharpInternalsIWebBrowserInternalsetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.CefSharp.Internals.IWebBrowserInternal.set_HasParent(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsActivatingGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_IsActivating()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsActivatingSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_IsActivating(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsBrowserInitializedChangedAddEventHandlerOfIsBrowserInitializedChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_IsBrowserInitializedChanged(EventHandler`1&lt;IsBrowserInitializedChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsBrowserInitializedChangedRemoveEventHandlerOfIsBrowserInitializedChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_IsBrowserInitializedChanged(EventHandler`1&lt;IsBrowserInitializedChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsBrowserInitializedGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_IsBrowserInitialized()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsBrowserInitializedSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_IsBrowserInitialized(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsLoadingGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_IsLoading()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.IsLoadingSetBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.set_IsLoading(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.JsDialogHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_JsDialogHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.JsDialogHandlerSetIJsDialogHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_JsDialogHandler(IJsDialogHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.KeyboardHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_KeyboardHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.KeyboardHandlerSetIKeyboardHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_KeyboardHandler(IKeyboardHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LifeSpanHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_LifeSpanHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LifeSpanHandlerSetILifeSpanHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_LifeSpanHandler(ILifeSpanHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LoadErrorAddEventHandlerOfLoadErrorEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_LoadError(EventHandler`1&lt;LoadErrorEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LoadErrorRemoveEventHandlerOfLoadErrorEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_LoadError(EventHandler`1&lt;LoadErrorEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LoadHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_LoadHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LoadHandlerSetILoadHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_LoadHandler(ILoadHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LoadString">
+            <summary>Sets the shim of ChromiumWebBrowser.Load(String url)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LoadingStateChangedAddEventHandlerOfLoadingStateChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_LoadingStateChanged(EventHandler`1&lt;LoadingStateChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.LoadingStateChangedRemoveEventHandlerOfLoadingStateChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_LoadingStateChanged(EventHandler`1&lt;LoadingStateChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.MenuHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_MenuHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.MenuHandlerSetIContextMenuHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_MenuHandler(IContextMenuHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.OnApplicationExitObjectEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.OnApplicationExit(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.OnGotFocusEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.OnHandleCreatedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.OnSizeChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RegisterAsyncJsObjectStringObjectBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.RegisterAsyncJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RegisterJsObjectStringObjectBoolean">
+            <summary>Sets the shim of ChromiumWebBrowser.RegisterJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RenderProcessMessageHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_RenderProcessMessageHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RenderProcessMessageHandlerSetIRenderProcessMessageHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_RenderProcessMessageHandler(IRenderProcessMessageHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RequestContextGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_RequestContext()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RequestContextSetRequestContext">
+            <summary>Sets the shim of ChromiumWebBrowser.set_RequestContext(RequestContext value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RequestHandlerGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_RequestHandler()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.RequestHandlerSetIRequestHandler">
+            <summary>Sets the shim of ChromiumWebBrowser.set_RequestHandler(IRequestHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.ResizeBrowser">
+            <summary>Sets the shim of ChromiumWebBrowser.ResizeBrowser()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.ResourceHandlerFactoryGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_ResourceHandlerFactory()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.ResourceHandlerFactorySetIResourceHandlerFactory">
+            <summary>Sets the shim of ChromiumWebBrowser.set_ResourceHandlerFactory(IResourceHandlerFactory value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.StaticConstructor">
+            <summary>Sets the shim of ChromiumWebBrowser.ChromiumWebBrowser()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.StatusMessageAddEventHandlerOfStatusMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_StatusMessage(EventHandler`1&lt;StatusMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.StatusMessageRemoveEventHandlerOfStatusMessageEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_StatusMessage(EventHandler`1&lt;StatusMessageEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.TitleChangedAddEventHandlerOfTitleChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.add_TitleChanged(EventHandler`1&lt;TitleChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.TitleChangedRemoveEventHandlerOfTitleChangedEventArgs">
+            <summary>Sets the shim of ChromiumWebBrowser.remove_TitleChanged(EventHandler`1&lt;TitleChangedEventArgs&gt; value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.TooltipTextGet">
+            <summary>Sets the shim of ChromiumWebBrowser.get_TooltipText()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser.TooltipTextSetString">
+            <summary>Sets the shim of ChromiumWebBrowser.set_TooltipText(String value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.ShimChromiumWebBrowser._CefSharpInternalsIWebBrowserInternalOnAfterBrowserCreatedb__0">
+            <summary>Sets the shim of ChromiumWebBrowser.&lt;CefSharp.Internals.IWebBrowserInternal.OnAfterBrowserCreated&gt;b__0()</summary>
+        </member>
+        <member name="T:CefSharp.WinForms.Fakes.StubChromiumWebBrowser">
+            <summary>Stub type of CefSharp.WinForms.ChromiumWebBrowser</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AllowDrop">
+            <summary>Sets the stub of Control.get_AllowDrop()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AllowDropGet">
+            <summary>Sets the stub of Control.get_AllowDrop()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AllowDropSetBoolean">
+            <summary>Sets the stub of Control.set_AllowDrop(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Anchor">
+            <summary>Sets the stub of Control.get_Anchor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AnchorGet">
+            <summary>Sets the stub of Control.get_Anchor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AnchorSetAnchorStyles">
+            <summary>Sets the stub of Control.set_Anchor(AnchorStyles value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToAllowDrop">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.AllowDrop as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToAnchor">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.Anchor as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToAutoScrollOffset">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.AutoScrollOffset as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToAutoSize">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.AutoSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToBackColor">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.BackColor as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToBackgroundImage">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.BackgroundImage as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToBackgroundImageLayout">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.BackgroundImageLayout as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToBindingContext">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.BindingContext as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToContextMenu">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.ContextMenu as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToContextMenuStrip">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.ContextMenuStrip as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToCursor">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.Cursor as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToDock">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.Dock as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToDoubleBuffered">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.DoubleBuffered as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToFont">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.Font as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToForeColor">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.ForeColor as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToImeModeBase">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.ImeModeBase as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToMaximumSize">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.MaximumSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToMinimumSize">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.MinimumSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToRightToLeft">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.RightToLeft as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToSite">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.Site as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AttachBackingFieldToText">
+            <summary>Attaches delegates to emulate StubChromiumWebBrowser.Text as a property with a backing field.</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AutoScrollOffset">
+            <summary>Sets the stub of Control.get_AutoScrollOffset()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AutoScrollOffsetGet">
+            <summary>Sets the stub of Control.get_AutoScrollOffset()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AutoScrollOffsetSetPoint">
+            <summary>Sets the stub of Control.set_AutoScrollOffset(Point value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AutoSize">
+            <summary>Sets the stub of Control.get_AutoSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AutoSizeGet">
+            <summary>Sets the stub of Control.get_AutoSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.AutoSizeSetBoolean">
+            <summary>Sets the stub of Control.set_AutoSize(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackColor">
+            <summary>Sets the stub of Control.get_BackColor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackColorGet">
+            <summary>Sets the stub of Control.get_BackColor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackColorSetColor">
+            <summary>Sets the stub of Control.set_BackColor(Color value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackgroundImage">
+            <summary>Sets the stub of Control.get_BackgroundImage()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackgroundImageGet">
+            <summary>Sets the stub of Control.get_BackgroundImage()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackgroundImageLayout">
+            <summary>Sets the stub of Control.get_BackgroundImageLayout()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackgroundImageLayoutGet">
+            <summary>Sets the stub of Control.get_BackgroundImageLayout()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackgroundImageLayoutSetImageLayout">
+            <summary>Sets the stub of Control.set_BackgroundImageLayout(ImageLayout value)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BackgroundImageSetImage">
+            <summary>Sets the stub of Control.set_BackgroundImage(Image value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BindingContext">
+            <summary>Sets the stub of Control.get_BindingContext()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BindingContextGet">
+            <summary>Sets the stub of Control.get_BindingContext()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.BindingContextSetBindingContext">
+            <summary>Sets the stub of Control.set_BindingContext(BindingContext value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CanEnableIme">
+            <summary>Sets the stub of Control.get_CanEnableIme()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CanEnableImeGet">
+            <summary>Sets the stub of Control.get_CanEnableIme()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CanRaiseEvents">
+            <summary>Sets the stub of Control.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CanRaiseEventsGet">
+            <summary>Sets the stub of Control.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ContextMenu">
+            <summary>Sets the stub of Control.get_ContextMenu()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ContextMenuGet">
+            <summary>Sets the stub of Control.get_ContextMenu()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ContextMenuSetContextMenu">
+            <summary>Sets the stub of Control.set_ContextMenu(ContextMenu value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ContextMenuStrip">
+            <summary>Sets the stub of Control.get_ContextMenuStrip()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ContextMenuStripGet">
+            <summary>Sets the stub of Control.get_ContextMenuStrip()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ContextMenuStripSetContextMenuStrip">
+            <summary>Sets the stub of Control.set_ContextMenuStrip(ContextMenuStrip value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateAccessibilityInstance">
+            <summary>Sets the stub of Control.CreateAccessibilityInstance()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateAccessibilityInstance01">
+            <summary>Sets the stub of Control.CreateAccessibilityInstance()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateControlsInstance">
+            <summary>Sets the stub of Control.CreateControlsInstance()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateControlsInstance01">
+            <summary>Sets the stub of Control.CreateControlsInstance()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateHandle">
+            <summary>Sets the stub of Control.CreateHandle()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateHandle01">
+            <summary>Sets the stub of Control.CreateHandle()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateParams">
+            <summary>Sets the stub of Control.get_CreateParams()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CreateParamsGet">
+            <summary>Sets the stub of Control.get_CreateParams()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Cursor">
+            <summary>Sets the stub of Control.get_Cursor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CursorGet">
+            <summary>Sets the stub of Control.get_Cursor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.CursorSetCursor">
+            <summary>Sets the stub of Control.set_Cursor(Cursor value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefWndProc(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.DefWndProc(Message&amp; m)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefWndProcMessageRef">
+            <summary>Sets the stub of Control.DefWndProc(Message&amp; m)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultCursor">
+            <summary>Sets the stub of Control.get_DefaultCursor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultCursorGet">
+            <summary>Sets the stub of Control.get_DefaultCursor()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultImeMode">
+            <summary>Sets the stub of Control.get_DefaultImeMode()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultImeModeGet">
+            <summary>Sets the stub of Control.get_DefaultImeMode()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultMargin">
+            <summary>Sets the stub of Control.get_DefaultMargin()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultMarginGet">
+            <summary>Sets the stub of Control.get_DefaultMargin()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultMaximumSize">
+            <summary>Sets the stub of Control.get_DefaultMaximumSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultMaximumSizeGet">
+            <summary>Sets the stub of Control.get_DefaultMaximumSize()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultMinimumSize">
+            <summary>Sets the stub of Control.get_DefaultMinimumSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultMinimumSizeGet">
+            <summary>Sets the stub of Control.get_DefaultMinimumSize()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultPadding">
+            <summary>Sets the stub of Control.get_DefaultPadding()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultPaddingGet">
+            <summary>Sets the stub of Control.get_DefaultPadding()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultSize">
+            <summary>Sets the stub of Control.get_DefaultSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DefaultSizeGet">
+            <summary>Sets the stub of Control.get_DefaultSize()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DestroyHandle">
+            <summary>Sets the stub of Control.DestroyHandle()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DestroyHandle01">
+            <summary>Sets the stub of Control.DestroyHandle()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DisplayRectangle">
+            <summary>Sets the stub of Control.get_DisplayRectangle()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DisplayRectangleGet">
+            <summary>Sets the stub of Control.get_DisplayRectangle()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Dispose(System.Boolean)">
+            <summary>Sets the stub of ChromiumWebBrowser.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DisposeBoolean">
+            <summary>Sets the stub of ChromiumWebBrowser.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Dock">
+            <summary>Sets the stub of Control.get_Dock()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DockGet">
+            <summary>Sets the stub of Control.get_Dock()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DockSetDockStyle">
+            <summary>Sets the stub of Control.set_Dock(DockStyle value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DoubleBuffered">
+            <summary>Sets the stub of Control.get_DoubleBuffered()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DoubleBufferedGet">
+            <summary>Sets the stub of Control.get_DoubleBuffered()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.DoubleBufferedSetBoolean">
+            <summary>Sets the stub of Control.set_DoubleBuffered(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Focused">
+            <summary>Sets the stub of ChromiumWebBrowser.get_Focused()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.FocusedGet">
+            <summary>Sets the stub of ChromiumWebBrowser.get_Focused()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Font">
+            <summary>Sets the stub of Control.get_Font()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.FontGet">
+            <summary>Sets the stub of Control.get_Font()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.FontSetFont">
+            <summary>Sets the stub of Control.set_Font(Font value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ForeColor">
+            <summary>Sets the stub of Control.get_ForeColor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ForeColorGet">
+            <summary>Sets the stub of Control.get_ForeColor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ForeColorSetColor">
+            <summary>Sets the stub of Control.set_ForeColor(Color value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetAccessibilityObjectById(System.Int32)">
+            <summary>Sets the stub of Control.GetAccessibilityObjectById(Int32 objectId)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetAccessibilityObjectByIdInt32">
+            <summary>Sets the stub of Control.GetAccessibilityObjectById(Int32 objectId)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetPreferredSize(System.Drawing.Size)">
+            <summary>Sets the stub of Control.GetPreferredSize(Size proposedSize)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetPreferredSizeSize">
+            <summary>Sets the stub of Control.GetPreferredSize(Size proposedSize)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetScaledBounds(System.Drawing.Rectangle,System.Drawing.SizeF,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the stub of Control.GetScaledBounds(Rectangle bounds, SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetScaledBoundsRectangleSizeFBoundsSpecified">
+            <summary>Sets the stub of Control.GetScaledBounds(Rectangle bounds, SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetService(System.Type)">
+            <summary>Sets the stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.GetServiceType">
+            <summary>Sets the stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ImeModeBase">
+            <summary>Sets the stub of Control.get_ImeModeBase()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ImeModeBaseGet">
+            <summary>Sets the stub of Control.get_ImeModeBase()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ImeModeBaseSetImeMode">
+            <summary>Sets the stub of Control.set_ImeModeBase(ImeMode value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.InitLayout">
+            <summary>Sets the stub of Control.InitLayout()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.InitLayout01">
+            <summary>Sets the stub of Control.InitLayout()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.InitializeStub">
+            <summary>Initializes a new instance of type StubChromiumWebBrowser</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.IsInputChar(System.Char)">
+            <summary>Sets the stub of Control.IsInputChar(Char charCode)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.IsInputCharChar">
+            <summary>Sets the stub of Control.IsInputChar(Char charCode)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.IsInputKey(System.Windows.Forms.Keys)">
+            <summary>Sets the stub of Control.IsInputKey(Keys keyData)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.IsInputKeyKeys">
+            <summary>Sets the stub of Control.IsInputKey(Keys keyData)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.LayoutEngine">
+            <summary>Sets the stub of Control.get_LayoutEngine()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.LayoutEngineGet">
+            <summary>Sets the stub of Control.get_LayoutEngine()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.MaximumSize">
+            <summary>Sets the stub of Control.get_MaximumSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.MaximumSizeGet">
+            <summary>Sets the stub of Control.get_MaximumSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.MaximumSizeSetSize">
+            <summary>Sets the stub of Control.set_MaximumSize(Size value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.MinimumSize">
+            <summary>Sets the stub of Control.get_MinimumSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.MinimumSizeGet">
+            <summary>Sets the stub of Control.get_MinimumSize()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.MinimumSizeSetSize">
+            <summary>Sets the stub of Control.set_MinimumSize(Size value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.NotifyInvalidate(System.Drawing.Rectangle)">
+            <summary>Sets the stub of Control.NotifyInvalidate(Rectangle invalidatedArea)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.NotifyInvalidateRectangle">
+            <summary>Sets the stub of Control.NotifyInvalidate(Rectangle invalidatedArea)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnAutoSizeChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnAutoSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnAutoSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnAutoSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBackColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBackColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBackgroundImageChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBackgroundImageChangedEventArgs">
+            <summary>Sets the stub of Control.OnBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBackgroundImageLayoutChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBackgroundImageLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBackgroundImageLayoutChangedEventArgs">
+            <summary>Sets the stub of Control.OnBackgroundImageLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBindingContextChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnBindingContextChangedEventArgs">
+            <summary>Sets the stub of Control.OnBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnCausesValidationChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnCausesValidationChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnCausesValidationChangedEventArgs">
+            <summary>Sets the stub of Control.OnCausesValidationChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnChangeUICues(System.Windows.Forms.UICuesEventArgs)">
+            <summary>Sets the stub of Control.OnChangeUICues(UICuesEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnChangeUICuesUICuesEventArgs">
+            <summary>Sets the stub of Control.OnChangeUICues(UICuesEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnClick(System.EventArgs)">
+            <summary>Sets the stub of Control.OnClick(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnClickEventArgs">
+            <summary>Sets the stub of Control.OnClick(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnClientSizeChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnClientSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnClientSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnClientSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnContextMenuChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnContextMenuChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnContextMenuChangedEventArgs">
+            <summary>Sets the stub of Control.OnContextMenuChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnContextMenuStripChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnContextMenuStripChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnContextMenuStripChangedEventArgs">
+            <summary>Sets the stub of Control.OnContextMenuStripChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnControlAdded(System.Windows.Forms.ControlEventArgs)">
+            <summary>Sets the stub of Control.OnControlAdded(ControlEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnControlAddedControlEventArgs">
+            <summary>Sets the stub of Control.OnControlAdded(ControlEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnControlRemoved(System.Windows.Forms.ControlEventArgs)">
+            <summary>Sets the stub of Control.OnControlRemoved(ControlEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnControlRemovedControlEventArgs">
+            <summary>Sets the stub of Control.OnControlRemoved(ControlEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnCreateControl">
+            <summary>Sets the stub of Control.OnCreateControl()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnCreateControl01">
+            <summary>Sets the stub of Control.OnCreateControl()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnCursorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnCursorChangedEventArgs">
+            <summary>Sets the stub of Control.OnCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDockChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnDockChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDockChangedEventArgs">
+            <summary>Sets the stub of Control.OnDockChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDoubleClick(System.EventArgs)">
+            <summary>Sets the stub of Control.OnDoubleClick(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDoubleClickEventArgs">
+            <summary>Sets the stub of Control.OnDoubleClick(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragDrop(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of Control.OnDragDrop(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragDropDragEventArgs">
+            <summary>Sets the stub of Control.OnDragDrop(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragEnter(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of Control.OnDragEnter(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragEnterDragEventArgs">
+            <summary>Sets the stub of Control.OnDragEnter(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragLeave(System.EventArgs)">
+            <summary>Sets the stub of Control.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragLeaveEventArgs">
+            <summary>Sets the stub of Control.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragOver(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of Control.OnDragOver(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnDragOverDragEventArgs">
+            <summary>Sets the stub of Control.OnDragOver(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnEnabledChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnEnabledChangedEventArgs">
+            <summary>Sets the stub of Control.OnEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnEnter(System.EventArgs)">
+            <summary>Sets the stub of Control.OnEnter(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnEnterEventArgs">
+            <summary>Sets the stub of Control.OnEnter(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnFontChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnFontChangedEventArgs">
+            <summary>Sets the stub of Control.OnFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnForeColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnForeColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)">
+            <summary>Sets the stub of Control.OnGiveFeedback(GiveFeedbackEventArgs gfbevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnGiveFeedbackGiveFeedbackEventArgs">
+            <summary>Sets the stub of Control.OnGiveFeedback(GiveFeedbackEventArgs gfbevent)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnGotFocus(System.EventArgs)">
+            <summary>Sets the stub of ChromiumWebBrowser.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnGotFocusEventArgs">
+            <summary>Sets the stub of ChromiumWebBrowser.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnHandleCreated(System.EventArgs)">
+            <summary>Sets the stub of ChromiumWebBrowser.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnHandleCreatedEventArgs">
+            <summary>Sets the stub of ChromiumWebBrowser.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnHandleDestroyed(System.EventArgs)">
+            <summary>Sets the stub of Control.OnHandleDestroyed(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnHandleDestroyedEventArgs">
+            <summary>Sets the stub of Control.OnHandleDestroyed(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnHelpRequested(System.Windows.Forms.HelpEventArgs)">
+            <summary>Sets the stub of Control.OnHelpRequested(HelpEventArgs hevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnHelpRequestedHelpEventArgs">
+            <summary>Sets the stub of Control.OnHelpRequested(HelpEventArgs hevent)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnImeModeChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnImeModeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnImeModeChangedEventArgs">
+            <summary>Sets the stub of Control.OnImeModeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnInvalidated(System.Windows.Forms.InvalidateEventArgs)">
+            <summary>Sets the stub of Control.OnInvalidated(InvalidateEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnInvalidatedInvalidateEventArgs">
+            <summary>Sets the stub of Control.OnInvalidated(InvalidateEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnKeyDown(System.Windows.Forms.KeyEventArgs)">
+            <summary>Sets the stub of Control.OnKeyDown(KeyEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnKeyDownKeyEventArgs">
+            <summary>Sets the stub of Control.OnKeyDown(KeyEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnKeyPress(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>Sets the stub of Control.OnKeyPress(KeyPressEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnKeyPressKeyPressEventArgs">
+            <summary>Sets the stub of Control.OnKeyPress(KeyPressEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnKeyUp(System.Windows.Forms.KeyEventArgs)">
+            <summary>Sets the stub of Control.OnKeyUp(KeyEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnKeyUpKeyEventArgs">
+            <summary>Sets the stub of Control.OnKeyUp(KeyEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLayout(System.Windows.Forms.LayoutEventArgs)">
+            <summary>Sets the stub of Control.OnLayout(LayoutEventArgs levent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLayoutLayoutEventArgs">
+            <summary>Sets the stub of Control.OnLayout(LayoutEventArgs levent)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLeave(System.EventArgs)">
+            <summary>Sets the stub of Control.OnLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLeaveEventArgs">
+            <summary>Sets the stub of Control.OnLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLocationChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnLocationChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLocationChangedEventArgs">
+            <summary>Sets the stub of Control.OnLocationChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLostFocus(System.EventArgs)">
+            <summary>Sets the stub of Control.OnLostFocus(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnLostFocusEventArgs">
+            <summary>Sets the stub of Control.OnLostFocus(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMarginChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMarginChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMarginChangedEventArgs">
+            <summary>Sets the stub of Control.OnMarginChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseCaptureChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseCaptureChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseCaptureChangedEventArgs">
+            <summary>Sets the stub of Control.OnMouseCaptureChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseClick(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseClickMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseDoubleClick(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseDoubleClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseDoubleClickMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseDoubleClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseDown(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseDownMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseDown(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseEnter(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseEnter(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseEnterEventArgs">
+            <summary>Sets the stub of Control.OnMouseEnter(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseHover(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseHover(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseHoverEventArgs">
+            <summary>Sets the stub of Control.OnMouseHover(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseLeave(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseLeaveEventArgs">
+            <summary>Sets the stub of Control.OnMouseLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseMove(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseMoveMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseMove(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseUp(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseUpMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseUp(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseWheel(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseWheel(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMouseWheelMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseWheel(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMove(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMove(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnMoveEventArgs">
+            <summary>Sets the stub of Control.OnMove(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnNotifyMessage(System.Windows.Forms.Message)">
+            <summary>Sets the stub of Control.OnNotifyMessage(Message m)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnNotifyMessageMessage">
+            <summary>Sets the stub of Control.OnNotifyMessage(Message m)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPaddingChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnPaddingChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPaddingChangedEventArgs">
+            <summary>Sets the stub of Control.OnPaddingChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the stub of Control.OnPaint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPaintBackground(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the stub of Control.OnPaintBackground(PaintEventArgs pevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPaintBackgroundPaintEventArgs">
+            <summary>Sets the stub of Control.OnPaintBackground(PaintEventArgs pevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPaintPaintEventArgs">
+            <summary>Sets the stub of Control.OnPaint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentBackColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentBackColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentBackgroundImageChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentBackgroundImageChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentBindingContextChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentBindingContextChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentCursorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentCursorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentEnabledChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentEnabledChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentFontChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentFontChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentForeColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentForeColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentRightToLeftChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentRightToLeftChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentVisibleChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnParentVisibleChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPreviewKeyDown(System.Windows.Forms.PreviewKeyDownEventArgs)">
+            <summary>Sets the stub of Control.OnPreviewKeyDown(PreviewKeyDownEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPreviewKeyDownPreviewKeyDownEventArgs">
+            <summary>Sets the stub of Control.OnPreviewKeyDown(PreviewKeyDownEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPrint(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the stub of Control.OnPrint(PaintEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnPrintPaintEventArgs">
+            <summary>Sets the stub of Control.OnPrint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)">
+            <summary>Sets the stub of Control.OnQueryContinueDrag(QueryContinueDragEventArgs qcdevent)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnQueryContinueDragQueryContinueDragEventArgs">
+            <summary>Sets the stub of Control.OnQueryContinueDrag(QueryContinueDragEventArgs qcdevent)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnRegionChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnRegionChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnRegionChangedEventArgs">
+            <summary>Sets the stub of Control.OnRegionChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnResize(System.EventArgs)">
+            <summary>Sets the stub of Control.OnResize(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnResizeEventArgs">
+            <summary>Sets the stub of Control.OnResize(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnRightToLeftChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnRightToLeftChangedEventArgs">
+            <summary>Sets the stub of Control.OnRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnSizeChanged(System.EventArgs)">
+            <summary>Sets the stub of ChromiumWebBrowser.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnSizeChangedEventArgs">
+            <summary>Sets the stub of ChromiumWebBrowser.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnStyleChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnStyleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnStyleChangedEventArgs">
+            <summary>Sets the stub of Control.OnStyleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnSystemColorsChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnSystemColorsChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnSystemColorsChangedEventArgs">
+            <summary>Sets the stub of Control.OnSystemColorsChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnTabIndexChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnTabIndexChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnTabIndexChangedEventArgs">
+            <summary>Sets the stub of Control.OnTabIndexChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnTabStopChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnTabStopChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnTabStopChangedEventArgs">
+            <summary>Sets the stub of Control.OnTabStopChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnTextChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnTextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnTextChangedEventArgs">
+            <summary>Sets the stub of Control.OnTextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnValidated(System.EventArgs)">
+            <summary>Sets the stub of Control.OnValidated(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnValidatedEventArgs">
+            <summary>Sets the stub of Control.OnValidated(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnValidating(System.ComponentModel.CancelEventArgs)">
+            <summary>Sets the stub of Control.OnValidating(CancelEventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnValidatingCancelEventArgs">
+            <summary>Sets the stub of Control.OnValidating(CancelEventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnVisibleChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.OnVisibleChangedEventArgs">
+            <summary>Sets the stub of Control.OnVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.PreProcessMessage(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.PreProcessMessage(Message&amp; msg)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.PreProcessMessageMessageRef">
+            <summary>Sets the stub of Control.PreProcessMessage(Message&amp; msg)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessCmdKey(System.Windows.Forms.Message@,System.Windows.Forms.Keys)">
+            <summary>Sets the stub of Control.ProcessCmdKey(Message&amp; msg, Keys keyData)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessCmdKeyMessageRefKeys">
+            <summary>Sets the stub of Control.ProcessCmdKey(Message&amp; msg, Keys keyData)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessDialogChar(System.Char)">
+            <summary>Sets the stub of Control.ProcessDialogChar(Char charCode)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessDialogCharChar">
+            <summary>Sets the stub of Control.ProcessDialogChar(Char charCode)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessDialogKey(System.Windows.Forms.Keys)">
+            <summary>Sets the stub of Control.ProcessDialogKey(Keys keyData)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessDialogKeyKeys">
+            <summary>Sets the stub of Control.ProcessDialogKey(Keys keyData)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessKeyEventArgs(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.ProcessKeyEventArgs(Message&amp; m)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessKeyEventArgsMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyEventArgs(Message&amp; m)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessKeyMessage(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.ProcessKeyMessage(Message&amp; m)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessKeyMessageMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyMessage(Message&amp; m)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessKeyPreview(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.ProcessKeyPreview(Message&amp; m)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessKeyPreviewMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyPreview(Message&amp; m)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessMnemonic(System.Char)">
+            <summary>Sets the stub of Control.ProcessMnemonic(Char charCode)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ProcessMnemonicChar">
+            <summary>Sets the stub of Control.ProcessMnemonic(Char charCode)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Refresh">
+            <summary>Sets the stub of Control.Refresh()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Refresh01">
+            <summary>Sets the stub of Control.Refresh()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetBackColor">
+            <summary>Sets the stub of Control.ResetBackColor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetBackColor01">
+            <summary>Sets the stub of Control.ResetBackColor()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetCursor">
+            <summary>Sets the stub of Control.ResetCursor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetCursor01">
+            <summary>Sets the stub of Control.ResetCursor()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetFont">
+            <summary>Sets the stub of Control.ResetFont()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetFont01">
+            <summary>Sets the stub of Control.ResetFont()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetForeColor">
+            <summary>Sets the stub of Control.ResetForeColor()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetForeColor01">
+            <summary>Sets the stub of Control.ResetForeColor()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetRightToLeft">
+            <summary>Sets the stub of Control.ResetRightToLeft()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetRightToLeft01">
+            <summary>Sets the stub of Control.ResetRightToLeft()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetText">
+            <summary>Sets the stub of Control.ResetText()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ResetText01">
+            <summary>Sets the stub of Control.ResetText()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.RightToLeft">
+            <summary>Sets the stub of Control.get_RightToLeft()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.RightToLeftGet">
+            <summary>Sets the stub of Control.get_RightToLeft()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.RightToLeftSetRightToLeft">
+            <summary>Sets the stub of Control.set_RightToLeft(RightToLeft value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ScaleChildren">
+            <summary>Sets the stub of Control.get_ScaleChildren()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ScaleChildrenGet">
+            <summary>Sets the stub of Control.get_ScaleChildren()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ScaleControl(System.Drawing.SizeF,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the stub of Control.ScaleControl(SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ScaleControlSizeFBoundsSpecified">
+            <summary>Sets the stub of Control.ScaleControl(SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ScaleCore(System.Single,System.Single)">
+            <summary>Sets the stub of Control.ScaleCore(Single dx, Single dy)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ScaleCoreSingleSingle">
+            <summary>Sets the stub of Control.ScaleCore(Single dx, Single dy)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Select(System.Boolean,System.Boolean)">
+            <summary>Sets the stub of Control.Select(Boolean directed, Boolean forward)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SelectBooleanBoolean">
+            <summary>Sets the stub of Control.Select(Boolean directed, Boolean forward)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SetBoundsCore(System.Int32,System.Int32,System.Int32,System.Int32,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the stub of Control.SetBoundsCore(Int32 x, Int32 y, Int32 width, Int32 height, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SetBoundsCoreInt32Int32Int32Int32BoundsSpecified">
+            <summary>Sets the stub of Control.SetBoundsCore(Int32 x, Int32 y, Int32 width, Int32 height, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SetClientSizeCore(System.Int32,System.Int32)">
+            <summary>Sets the stub of Control.SetClientSizeCore(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SetClientSizeCoreInt32Int32">
+            <summary>Sets the stub of Control.SetClientSizeCore(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SetVisibleCore(System.Boolean)">
+            <summary>Sets the stub of Control.SetVisibleCore(Boolean value)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SetVisibleCoreBoolean">
+            <summary>Sets the stub of Control.SetVisibleCore(Boolean value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ShowFocusCues">
+            <summary>Sets the stub of Control.get_ShowFocusCues()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ShowFocusCuesGet">
+            <summary>Sets the stub of Control.get_ShowFocusCues()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ShowKeyboardCues">
+            <summary>Sets the stub of Control.get_ShowKeyboardCues()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ShowKeyboardCuesGet">
+            <summary>Sets the stub of Control.get_ShowKeyboardCues()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Site">
+            <summary>Sets the stub of Control.get_Site()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SiteGet">
+            <summary>Sets the stub of Control.get_Site()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SiteSetISite">
+            <summary>Sets the stub of Control.set_Site(ISite value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SizeFromClientSize(System.Drawing.Size)">
+            <summary>Sets the stub of Control.SizeFromClientSize(Size clientSize)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.SizeFromClientSizeSize">
+            <summary>Sets the stub of Control.SizeFromClientSize(Size clientSize)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.Text">
+            <summary>Sets the stub of Control.get_Text()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.TextGet">
+            <summary>Sets the stub of Control.get_Text()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.TextSetString">
+            <summary>Sets the stub of Control.set_Text(String value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ToString">
+            <summary>Sets the stub of Component.ToString()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.ToString01">
+            <summary>Sets the stub of Component.ToString()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.WndProc(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.WndProc(Message&amp; m)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubChromiumWebBrowser.WndProcMessageRef">
+            <summary>Sets the stub of Control.WndProc(Message&amp; m)</summary>
+        </member>
+        <member name="T:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser">
+            <summary>Stub type of CefSharp.WinForms.IWinFormsWebBrowser</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.#ctor">
+            <summary>Initializes a new instance of type StubIWinFormsWebBrowser</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#Address">
+            <summary>Sets the stub of IWebBrowser.get_Address()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AddressGet">
+            <summary>Sets the stub of IWebBrowser.get_Address()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToDialogHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.DialogHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToDisplayHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.DisplayHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToDownloadHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.DownloadHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToDragHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.DragHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToFindHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.FindHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToFocusHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.FocusHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToGeolocationHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.GeolocationHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToJsDialogHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.JsDialogHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToKeyboardHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.KeyboardHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToLifeSpanHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.LifeSpanHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToLoadHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.LoadHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToMenuHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.MenuHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToRenderProcessMessageHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.RenderProcessMessageHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToRequestHandler">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.RequestHandler as a property with a backing field.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.AttachBackingFieldToResourceHandlerFactory">
+            <summary>Attaches delegates to emulate StubIWinFormsWebBrowser.ResourceHandlerFactory as a property with a backing field.</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#CanGoBack">
+            <summary>Sets the stub of IWebBrowser.get_CanGoBack()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CanGoBackGet">
+            <summary>Sets the stub of IWebBrowser.get_CanGoBack()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#CanGoForward">
+            <summary>Sets the stub of IWebBrowser.get_CanGoForward()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CanGoForwardGet">
+            <summary>Sets the stub of IWebBrowser.get_CanGoForward()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#Focus">
+            <summary>Sets the stub of IWebBrowser.Focus()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#GetBrowser">
+            <summary>Sets the stub of IWebBrowser.GetBrowser()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#Load(System.String)">
+            <summary>Sets the stub of IWebBrowser.Load(String url)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#RegisterAsyncJsObject(System.String,System.Object,System.Boolean)">
+            <summary>Sets the stub of IWebBrowser.RegisterAsyncJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#RegisterJsObject(System.String,System.Object,System.Boolean)">
+            <summary>Sets the stub of IWebBrowser.RegisterJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#DialogHandler">
+            <summary>Sets the stub of IWebBrowser.get_DialogHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DialogHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_DialogHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DialogHandlerSetIDialogHandler">
+            <summary>Sets the stub of IWebBrowser.set_DialogHandler(IDialogHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#DisplayHandler">
+            <summary>Sets the stub of IWebBrowser.get_DisplayHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DisplayHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_DisplayHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DisplayHandlerSetIDisplayHandler">
+            <summary>Sets the stub of IWebBrowser.set_DisplayHandler(IDisplayHandler value)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.Dispose">
+            <summary>Sets the stub of IDisposable.Dispose()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#DownloadHandler">
+            <summary>Sets the stub of IWebBrowser.get_DownloadHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DownloadHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_DownloadHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DownloadHandlerSetIDownloadHandler">
+            <summary>Sets the stub of IWebBrowser.set_DownloadHandler(IDownloadHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#DragHandler">
+            <summary>Sets the stub of IWebBrowser.get_DragHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DragHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_DragHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.DragHandlerSetIDragHandler">
+            <summary>Sets the stub of IWebBrowser.set_DragHandler(IDragHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#FindHandler">
+            <summary>Sets the stub of IWebBrowser.get_FindHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.FindHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_FindHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.FindHandlerSetIFindHandler">
+            <summary>Sets the stub of IWebBrowser.set_FindHandler(IFindHandler value)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.Focus">
+            <summary>Sets the stub of IWebBrowser.Focus()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#FocusHandler">
+            <summary>Sets the stub of IWebBrowser.get_FocusHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.FocusHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_FocusHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.FocusHandlerSetIFocusHandler">
+            <summary>Sets the stub of IWebBrowser.set_FocusHandler(IFocusHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#GeolocationHandler">
+            <summary>Sets the stub of IWebBrowser.get_GeolocationHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.GeolocationHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_GeolocationHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.GeolocationHandlerSetIGeolocationHandler">
+            <summary>Sets the stub of IWebBrowser.set_GeolocationHandler(IGeolocationHandler value)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.GetBrowser">
+            <summary>Sets the stub of IWebBrowser.GetBrowser()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#IsBrowserInitialized">
+            <summary>Sets the stub of IWebBrowser.get_IsBrowserInitialized()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.IsBrowserInitializedGet">
+            <summary>Sets the stub of IWebBrowser.get_IsBrowserInitialized()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#IsLoading">
+            <summary>Sets the stub of IWebBrowser.get_IsLoading()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.IsLoadingGet">
+            <summary>Sets the stub of IWebBrowser.get_IsLoading()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#JsDialogHandler">
+            <summary>Sets the stub of IWebBrowser.get_JsDialogHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.JsDialogHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_JsDialogHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.JsDialogHandlerSetIJsDialogHandler">
+            <summary>Sets the stub of IWebBrowser.set_JsDialogHandler(IJsDialogHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#KeyboardHandler">
+            <summary>Sets the stub of IWebBrowser.get_KeyboardHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.KeyboardHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_KeyboardHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.KeyboardHandlerSetIKeyboardHandler">
+            <summary>Sets the stub of IWebBrowser.set_KeyboardHandler(IKeyboardHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#LifeSpanHandler">
+            <summary>Sets the stub of IWebBrowser.get_LifeSpanHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.LifeSpanHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_LifeSpanHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.LifeSpanHandlerSetILifeSpanHandler">
+            <summary>Sets the stub of IWebBrowser.set_LifeSpanHandler(ILifeSpanHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#LoadHandler">
+            <summary>Sets the stub of IWebBrowser.get_LoadHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.LoadHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_LoadHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.LoadHandlerSetILoadHandler">
+            <summary>Sets the stub of IWebBrowser.set_LoadHandler(ILoadHandler value)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.LoadString">
+            <summary>Sets the stub of IWebBrowser.Load(String url)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#MenuHandler">
+            <summary>Sets the stub of IWebBrowser.get_MenuHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.MenuHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_MenuHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.MenuHandlerSetIContextMenuHandler">
+            <summary>Sets the stub of IWebBrowser.set_MenuHandler(IContextMenuHandler value)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.RegisterAsyncJsObjectStringObjectBoolean">
+            <summary>Sets the stub of IWebBrowser.RegisterAsyncJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.RegisterJsObjectStringObjectBoolean">
+            <summary>Sets the stub of IWebBrowser.RegisterJsObject(String name, Object objectToBind, Boolean camelCaseJavascriptNames)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#RenderProcessMessageHandler">
+            <summary>Sets the stub of IWebBrowser.get_RenderProcessMessageHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.RenderProcessMessageHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_RenderProcessMessageHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.RenderProcessMessageHandlerSetIRenderProcessMessageHandler">
+            <summary>Sets the stub of IWebBrowser.set_RenderProcessMessageHandler(IRenderProcessMessageHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#RequestHandler">
+            <summary>Sets the stub of IWebBrowser.get_RequestHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.RequestHandlerGet">
+            <summary>Sets the stub of IWebBrowser.get_RequestHandler()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.RequestHandlerSetIRequestHandler">
+            <summary>Sets the stub of IWebBrowser.set_RequestHandler(IRequestHandler value)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#ResourceHandlerFactory">
+            <summary>Sets the stub of IWebBrowser.get_ResourceHandlerFactory()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.ResourceHandlerFactoryGet">
+            <summary>Sets the stub of IWebBrowser.get_ResourceHandlerFactory()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.ResourceHandlerFactorySetIResourceHandlerFactory">
+            <summary>Sets the stub of IWebBrowser.set_ResourceHandlerFactory(IResourceHandlerFactory value)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.System#IDisposable#Dispose">
+            <summary>Sets the stub of IDisposable.Dispose()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.CefSharp#IWebBrowser#TooltipText">
+            <summary>Sets the stub of IWebBrowser.get_TooltipText()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Fakes.StubIWinFormsWebBrowser.TooltipTextGet">
+            <summary>Sets the stub of IWebBrowser.get_TooltipText()</summary>
+        </member>
+        <member name="T:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions">
+            <summary>Shim type of CefSharp.WinForms.Internals.ControlExtensions</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.ActivateControl">
+            <summary>Sets the shim of ControlExtensions.Activate(Control control)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.InvokeOnUiThreadIfRequiredControlAction">
+            <summary>Sets the shim of ControlExtensions.InvokeOnUiThreadIfRequired(Control control, Action action)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.IsActiveControlControl">
+            <summary>Sets the shim of ControlExtensions.IsActiveControl(Control control)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimControlExtensions.SelectNextControlControlBoolean">
+            <summary>Sets the shim of ControlExtensions.SelectNextControl(Control control, Boolean next)</summary>
+        </member>
+        <member name="T:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler">
+            <summary>Shim type of CefSharp.WinForms.Internals.DefaultFocusHandler</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.#ctor(CefSharp.WinForms.Internals.DefaultFocusHandler)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.AllInstances.OnGotFocus">
+            <summary>Sets the shim of DefaultFocusHandler.OnGotFocus()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.AllInstances.OnSetFocusCefFocusSource">
+            <summary>Sets the shim of DefaultFocusHandler.OnSetFocus(CefFocusSource source)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.AllInstances.OnTakeFocusBoolean">
+            <summary>Sets the shim of DefaultFocusHandler.OnTakeFocus(Boolean next)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.AllInstances._OnGotFocusb__0">
+            <summary>Sets the shim of DefaultFocusHandler.&lt;OnGotFocus&gt;b__0()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.Bind(CefSharp.IFocusHandler)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.ConstructorChromiumWebBrowser">
+            <summary>Sets the shim of DefaultFocusHandler.DefaultFocusHandler(ChromiumWebBrowser browser)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.OnGotFocus">
+            <summary>Sets the shim of DefaultFocusHandler.OnGotFocus()</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.OnSetFocusCefFocusSource">
+            <summary>Sets the shim of DefaultFocusHandler.OnSetFocus(CefFocusSource source)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler.OnTakeFocusBoolean">
+            <summary>Sets the shim of DefaultFocusHandler.OnTakeFocus(Boolean next)</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.ShimDefaultFocusHandler._OnGotFocusb__0">
+            <summary>Sets the shim of DefaultFocusHandler.&lt;OnGotFocus&gt;b__0()</summary>
+        </member>
+        <member name="T:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler">
+            <summary>Stub type of CefSharp.WinForms.Internals.DefaultFocusHandler</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.#ctor(CefSharp.WinForms.ChromiumWebBrowser)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.InitializeStub">
+            <summary>Initializes a new instance of type StubDefaultFocusHandler</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.OnGotFocus">
+            <summary>Sets the stub of DefaultFocusHandler.OnGotFocus()</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.OnGotFocus01">
+            <summary>Sets the stub of DefaultFocusHandler.OnGotFocus()</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.OnSetFocus(CefSharp.CefFocusSource)">
+            <summary>Sets the stub of DefaultFocusHandler.OnSetFocus(CefFocusSource source)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.OnSetFocusCefFocusSource">
+            <summary>Sets the stub of DefaultFocusHandler.OnSetFocus(CefFocusSource source)</summary>
+        </member>
+        <member name="M:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.OnTakeFocus(System.Boolean)">
+            <summary>Sets the stub of DefaultFocusHandler.OnTakeFocus(Boolean next)</summary>
+        </member>
+        <member name="F:CefSharp.WinForms.Internals.Fakes.StubDefaultFocusHandler.OnTakeFocusBoolean">
+            <summary>Sets the stub of DefaultFocusHandler.OnTakeFocus(Boolean next)</summary>
+        </member>
+        <member name="T:Microsoft.QualityTools.Testing.Fakes.Delegates.CefSharpWinFormsDelegates">
+            <summary>Contains custom delegates used for the stubs and shims of CefSharp.WinForms</summary>
+        </member>
+    </members>
+</doc>
